@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Mission06_tk2672.props" />
+</Project>
